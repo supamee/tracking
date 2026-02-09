@@ -34,7 +34,7 @@ Example:
 uv run combined.py drone.mp4 output/tracked.mp4
 ```
 
-<video src="https://raw.githubusercontent.com/supamee/tracking/main/output/tracked.mp4" autoplay loop muted></video>
+![Tracking demo](output/tracked.gif)
 
 Current limitations:
 Does not support multiple drones.
